@@ -7,9 +7,8 @@
 
 - 🌱 I’m currently learning **Cyber Security, C#, C and ASM**
 
-- 👨‍💻 All of my projects are available at [coming soon](coming soon)
+- 👨‍ All of my projects are available at [coming soon](coming soon)
 
-- 📫 How to reach me **https://discord.gg/vKC9x5E8uZ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
