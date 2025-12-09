@@ -1,23 +1,88 @@
-<h1 align="center">Hi, I'm Fergs</h1>
-<h3 align="center">I like cyber security</h3>
+# Idk what goes here
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fergs32&label=Profile%20views&color=0e75b6&style=flat" alt="fergs32" /> </p>
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F700&center=true&vCenter=true&random=false&width=600&lines=Cybersecurity+Researcher;Malware+Analyst;AV+Engine+Developer;Threat+Hunter)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fergs32" alt="fergs32" /></a> </p>
+</div>
 
-- 🌱 I’m currently learning **Cyber Security, C#, C and ASM**
+---
 
-- 👨‍ All of my projects are available at [coming soon](coming soon)
+## Well, hi?
+```java
+public final class EliteBallKnowledge {
+    private String name;
+    private String role;
+    private String currentProject;
+    private String[] interests;
+    private String[] primaryLanguages;
+    private String learning;
+    
+    public hmmm() {
+        this.name = "Ferg";
+        this.role = "Cybersecurity Graduate & Malware Researcher";
+        this.currentProject = "Bytelock AV Engine";
+        this.interests = new String[]{
+            "Malware Analysis",
+            "Detection Engineering",
+            "Bingo Enthusiast",
+            "Threat Intelligence"
+        };
+        this.primaryLanguages = new String[]{"C#", "Java"};
+        this.learning = "Advanced Evasion Techniques";
+    }
+```
+## About Me
 
+Recent cybersecurity graduate *trying to* specialize in malware analysis and detection techniques. Currently developing **Bytelock**, a custom antivirus engine that leverages signatures and analysis techniques to identify emerging threats.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/vKC9x5E8uZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vKC9x5E8uZ" height="30" width="40" /></a>
-</p>
+- **Research Focus:** Malware detection methodologies and signature-based analysis  
+-  **Primary Tech Stack:** C#, Java, and .NET ecosystem  
+-  **Current Project:** [Bytelock AV Engine](https://github.com/Fergs32/Bytelock)
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+## Technolgica Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fergs32&show_icons=true&locale=en&layout=compact" alt="fergs32" /></p>
+### Primary
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fergs32&show_icons=true&locale=en" alt="fergs32" /></p>
+### Also Semi Proficient In
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Security Tools & Frameworks
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-00599C?style=for-the-badge&logo=ida&logoColor=white)
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Fergs32&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F700&icon_color=00F700&text_color=FFFFFF)
+
+![Poop](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fergs32&theme=radical)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fergs32&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F700&text_color=FFFFFF)
+
+</div>
+---
+
+## Keyboard stats
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Fergs32&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F700&line=00F700&point=FFFFFF)
+
+---
+
+<div align="center">
+
+## "The best way to predict the future is to invent it." - Alan Kay
+## "Every contact leaves a trace" - Edmond Locard
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00F700&style=for-the-badge)
+
+</div>
