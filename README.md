@@ -83,6 +83,6 @@ Recent cybersecurity graduate *trying to* specialize in malware analysis and det
 ## "The best way to predict the future is to invent it." - Alan Kay
 ## "Every contact leaves a trace" - Edmond Locard
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=00F700&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Fergs32&color=00F700&style=for-the-badge)
 
 </div>
